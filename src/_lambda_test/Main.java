@@ -1,4 +1,4 @@
-package lambda_test;
+package _lambda_test;
 
 import java.util.Arrays;
 import java.util.List;
